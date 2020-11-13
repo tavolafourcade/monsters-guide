@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tavolafourcade/monsters-guide/static/css/main.76cb2b28.chunk.css",
+    "main.js": "/tavolafourcade/monsters-guide/static/js/main.595fdd81.chunk.js",
+    "main.js.map": "/tavolafourcade/monsters-guide/static/js/main.595fdd81.chunk.js.map",
+    "runtime-main.js": "/tavolafourcade/monsters-guide/static/js/runtime-main.65f8dac9.js",
+    "runtime-main.js.map": "/tavolafourcade/monsters-guide/static/js/runtime-main.65f8dac9.js.map",
+    "static/js/2.9559bc06.chunk.js": "/tavolafourcade/monsters-guide/static/js/2.9559bc06.chunk.js",
+    "static/js/2.9559bc06.chunk.js.map": "/tavolafourcade/monsters-guide/static/js/2.9559bc06.chunk.js.map",
+    "static/js/3.0a56eb84.chunk.js": "/tavolafourcade/monsters-guide/static/js/3.0a56eb84.chunk.js",
+    "static/js/3.0a56eb84.chunk.js.map": "/tavolafourcade/monsters-guide/static/js/3.0a56eb84.chunk.js.map",
+    "index.html": "/tavolafourcade/monsters-guide/index.html",
+    "static/css/main.76cb2b28.chunk.css.map": "/tavolafourcade/monsters-guide/static/css/main.76cb2b28.chunk.css.map",
+    "static/js/2.9559bc06.chunk.js.LICENSE.txt": "/tavolafourcade/monsters-guide/static/js/2.9559bc06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65f8dac9.js",
+    "static/js/2.9559bc06.chunk.js",
+    "static/css/main.76cb2b28.chunk.css",
+    "static/js/main.595fdd81.chunk.js"
+  ]
+}
